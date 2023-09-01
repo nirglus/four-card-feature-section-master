@@ -51,6 +51,9 @@ header{
 .team-b{
     border-color: hsl(0, 78%, 62%);
 }
+.karma{
+    border-color: hsl(34, 97%, 64%);
+}
 
 .card img{
     align-self: flex-end;

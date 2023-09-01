@@ -41,3 +41,8 @@ header{
     height: 250px;
     padding: 10px 20px;
 }
+.double-cards{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5vh;
+}

@@ -35,3 +35,9 @@ header{
     justify-content: center;
     align-items: center;
 }
+.card{
+    border: solid;
+    width: 320px;
+    height: 250px;
+    padding: 10px 20px;
+}

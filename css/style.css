@@ -45,6 +45,7 @@ header{
 }
 .card img{
     align-self: flex-end;
+    margin: 30px 15px;
 }
 .card h2{
     margin-bottom: 5px;

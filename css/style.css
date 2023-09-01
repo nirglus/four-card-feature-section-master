@@ -54,6 +54,7 @@ header{
 }
 .card p{
     margin-top: 0;
+    color: hsl(229, 6%, 66%);
 }
 .double-cards{
     display: flex;

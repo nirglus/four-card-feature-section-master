@@ -29,3 +29,9 @@ header{
     text-align: center;
     color: hsl(229, 6%, 66%);
 }
+.cards-container{
+    display: flex;
+    gap: 1vw;
+    justify-content: center;
+    align-items: center;
+}

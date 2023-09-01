@@ -32,7 +32,7 @@ header{
 }
 .cards-container{
     display: flex;
-    gap: 1vw;
+    gap: 2vw;
     justify-content: center;
     align-items: center;
 }

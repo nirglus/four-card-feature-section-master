@@ -36,10 +36,15 @@ header{
     align-items: center;
 }
 .card{
+    display: flex;
+    flex-direction: column;
     border: solid;
     width: 320px;
     height: 250px;
     padding: 10px 20px;
+}
+.card img{
+    align-self: flex-end;
 }
 .double-cards{
     display: flex;

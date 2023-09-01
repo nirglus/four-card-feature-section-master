@@ -39,7 +39,7 @@ header{
 .card{
     display: flex;
     flex-direction: column;
-    border: solid;
+    border-top: 5px solid;
     width: 320px;
     height: 250px;
     padding: 10px 20px;

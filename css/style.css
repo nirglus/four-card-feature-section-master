@@ -23,3 +23,9 @@ header{
     margin-top: 0;
     color: hsl(234, 12%, 34%);
 }
+.top-para{
+    width: 540px;
+    margin-top: 0;
+    text-align: center;
+    color: hsl(229, 6%, 66%);
+}

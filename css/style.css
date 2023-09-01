@@ -48,6 +48,9 @@ header{
 .supervisor{
     border-color: hsl(180, 62%, 55%);
 }
+.team-b{
+    border-color: hsl(0, 78%, 62%);
+}
 
 .card img{
     align-self: flex-end;

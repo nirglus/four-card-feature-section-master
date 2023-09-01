@@ -54,6 +54,9 @@ header{
 .karma{
     border-color: hsl(34, 97%, 64%);
 }
+.calculator{
+    border-color: hsl(212, 86%, 64%);
+}
 
 .card img{
     align-self: flex-end;

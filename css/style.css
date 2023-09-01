@@ -19,3 +19,7 @@ header{
     margin-top: 9vh;
     color: hsl(234, 12%, 34%);
 }
+.second-header{
+    margin-top: 0;
+    color: hsl(234, 12%, 34%);
+}

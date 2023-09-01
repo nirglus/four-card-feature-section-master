@@ -50,6 +50,7 @@ header{
 }
 .card h2{
     margin-bottom: 5px;
+    color: hsl(234, 12%, 34%);
 }
 .card p{
     margin-top: 0;

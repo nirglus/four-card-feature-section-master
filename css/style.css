@@ -44,6 +44,7 @@ header{
     height: 250px;
     padding: 10px 20px;
     border-radius: 6px;
+    box-shadow: 0px 9px 14px 2px #e1eaf5;
 }
 .supervisor{
     border-color: hsl(180, 62%, 55%);
@@ -54,7 +55,7 @@ header{
 .karma{
     border-color: hsl(34, 97%, 64%);
 }
-.calculator{
+.calc{
     border-color: hsl(212, 86%, 64%);
 }
 

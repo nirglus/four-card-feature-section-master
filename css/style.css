@@ -57,10 +57,12 @@ header{
 }
 .supervisor:hover h2{
     color: hsl(180, 62%, 55%);
-
 }
 .team-b{
     border-color: hsl(0, 78%, 62%);
+}
+.team-b:hover h2{
+    color: hsl(0, 78%, 62%);
 }
 .karma{
     border-color: hsl(34, 97%, 64%);

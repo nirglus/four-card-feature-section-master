@@ -82,4 +82,8 @@ header{
     .cards-container{
         flex-direction: column;
     }
+    body{
+        margin-left: 55vw;
+        margin-top: 10vh;
+    }
 }

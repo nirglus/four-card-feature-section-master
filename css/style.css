@@ -7,6 +7,7 @@ body{
     flex-direction: column;
     gap: 4vh;
     font-family: 'Poppins', sans-serif;
+    background-color: hsl(0, 0%, 98%);
 }
 header{
     display: flex;
@@ -48,6 +49,7 @@ header{
     border-radius: 6px;
     box-shadow: 0px 9px 14px 2px #e1eaf5;
     transition: all 1s;
+    background-color: #fff;
 }
 .card h2{
     transition: all 0.5s;

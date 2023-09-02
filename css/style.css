@@ -83,6 +83,10 @@ header{
 .card img{
     align-self: flex-end;
     margin: 30px 15px;
+    transition: 2s;
+}
+.card:hover img{
+    transform: rotateY(360deg);
 }
 .card h2{
     margin-bottom: 5px;

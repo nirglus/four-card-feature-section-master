@@ -101,4 +101,7 @@ header{
     .cards-container{
         gap: 7vh;
     }
+    .double-cards{
+        gap: 7vh;
+    }
 }

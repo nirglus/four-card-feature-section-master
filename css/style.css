@@ -73,6 +73,9 @@ header{
 .calc{
     border-color: hsl(212, 86%, 64%);
 }
+.calc:hover h2{
+    color: hsl(212, 86%, 64%);
+}
 .card:hover{
     cursor: pointer;
     transform: scale(1.1);

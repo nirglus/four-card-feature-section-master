@@ -86,6 +86,9 @@ header{
         margin-left: 55vw;
         margin-top: 10vh;
     }
+    header{
+        width: 480px;
+    }
     .top-para{
         width: 340px;
     }

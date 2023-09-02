@@ -89,6 +89,12 @@ header{
     header{
         width: 480px;
     }
+    .first-header{
+        font-size: 1.8em;
+    }
+    .second-header{
+        font-size: 1.8em;
+    }
     .top-para{
         width: 340px;
     }

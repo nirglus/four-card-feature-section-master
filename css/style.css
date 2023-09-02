@@ -67,6 +67,9 @@ header{
 .karma{
     border-color: hsl(34, 97%, 64%);
 }
+.karma:hover h2{
+    color: hsl(34, 97%, 64%);
+}
 .calc{
     border-color: hsl(212, 86%, 64%);
 }

@@ -98,4 +98,7 @@ header{
     .top-para{
         width: 340px;
     }
+    .cards-container{
+        gap: 10vw;
+    }
 }

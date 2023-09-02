@@ -78,3 +78,8 @@ header{
     flex-direction: column;
     gap: 2.5vh;
 }
+@media (max-width:600px){
+    .cards-container{
+        flex-direction: column;
+    }
+}
